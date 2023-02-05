@@ -1,0 +1,8 @@
+﻿  example.cpp
+\\ueahome4\stusci6\srp19ccu\data\Documents\Computing Science - Year 3\Graphics1\Lab2\example.cpp(15,25): error C2665: 'Point::Point': no overloaded function could convert all the argument types
+\\ueahome4\stusci6\srp19ccu\data\Documents\Computing Science - Year 3\Graphics1\Lab2\Point.h(10,2): message : could be 'Point::Point(float,float)'
+\\ueahome4\stusci6\srp19ccu\data\Documents\Computing Science - Year 3\Graphics1\Lab2\example.cpp(15,25): message : 'Point::Point(float,float)': cannot convert argument 1 from 'Point' to 'float'
+\\ueahome4\stusci6\srp19ccu\data\Documents\Computing Science - Year 3\Graphics1\Lab2\example.cpp(15,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+\\ueahome4\stusci6\srp19ccu\data\Documents\Computing Science - Year 3\Graphics1\Lab2\example.cpp(15,25): message : while trying to match the argument list '(Point, Point)'
+  Point.cpp
+  Generating Code...
